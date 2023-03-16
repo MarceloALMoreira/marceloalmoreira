@@ -1,5 +1,5 @@
 ## Irei fazer uma rápida mudança no Readme
-### Olá! Eu sou o Marcelo Almeida 🤙
+### Olá 👋, Sinta-se à vontade para falar comigo!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-almeida-7b6994203/)
 
