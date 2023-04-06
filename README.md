@@ -1,4 +1,4 @@
-## Desenvolvedor Front-end:
+## Front-end Software Engineer
 
 ### Olá 👋, Sinta-se à vontade para falar comigo!
 
