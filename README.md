@@ -1,18 +1,28 @@
 ## Front-end Software Engineer
 
-### Olá 👋, Sinta-se à vontade para falar comigo!
+### Hello 👋, Feel free to talk to me!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-almeida-7b6994203/)
+<hr/>
 
 
-![Marcelo GitHub stats ](https://github-readme-stats.vercel.app/api?username=marceloalmoreira&show_icons=true&theme=tokyonight)
+## Technology I've been learning
 
-## Tecnologias que uso no meu dia, e venho Estudando!
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>  
-   <br/>   <br/>   <br/>
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+<hr/>
+
+![Marcelo GitHub stats ](https://github-readme-stats.vercel.app/api?username=marceloalmoreira&show_icons=true&theme=tokyonight) 
+
+<!-- ![Marcelo GitHub stats ](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloalmoreira&theme=blue-green)  -->
+
+## Creating Project with
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+
+<hr/>
+
+
+  
